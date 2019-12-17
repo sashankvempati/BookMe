@@ -42,6 +42,15 @@ Here's a walkthrough of implemented user stories:
 ### Description
 Allows users to rent a room at someones house and use it as a study space.
 
+#### Additional Information
+**Date of Original Commit: May 15 2019**
+**Link to original repository: ** https://github.com/apimentel97/BookMe
+
+**Contributors** 
+Sashank Vempati ---- *Github: https://github.com/sashankvempati*
+Alejandro Pimentel - *Github: https://github.com/apimentel97*
+Kunal Agarwal ------ *Github: https://github.com/kunal-agarwal1*
+
 ### App Evaluation
 
 - **Category:** Marketplace/ Hospitality
