@@ -44,6 +44,7 @@ Allows users to rent a room at someones house and use it as a study space.
 
 #### Additional Information
 **Date of Original Commit: May 15 2019**
+
 **Link to original repository:** https://github.com/apimentel97/BookMe
 
 **Contributors** 
